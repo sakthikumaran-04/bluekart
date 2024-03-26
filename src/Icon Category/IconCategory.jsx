@@ -7,7 +7,7 @@ import "./IconCategory.css";
 function IconCategory() {
   return (
     <section className="px-10 py-10 font-body">
-      <h2 className="text-3xl underline decoration-blue-500 underline-offset-4 py-6 p-4 text-center mb-2">
+      <h2 className="text-3xl underline decoration-blue-500 underline-offset-4 py-6 p-4 text-center mb-2 font-medium">
         Categories
       </h2>
       <div className="flex items-center justify-around flex-wrap gap-4 max-sm:zoom">
