@@ -19,7 +19,7 @@ function Navbar() {
 
   return (
     <>
-      <nav className="font-body shadow-md py-2 w-[100%] overflow-hidden">
+      <nav className="font-body shadow-md fixed bg-white py-2 w-[100%] overflow-hidden">
         <section className="font-body flex justify-around w-[100%] items-center py-2">
           <section className="flex items-center gap-3">
             <img

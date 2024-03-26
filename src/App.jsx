@@ -3,6 +3,10 @@ import "./App.css";
 import Navbar from "./Navbar/Navbar";
 import Hero from "./Hero/Hero";
 import IconCategory from "./Icon Category/IconCategory";
+import Trending from "./Trending/Trending";
+import Popular from "./Popular/Popular";
+import CurrentOffer from "./CurrentOffer/CurrentOffer";
+import Newsletter from "./Newsletter/Newsletter";
 
 function App() {
   return (
@@ -10,6 +14,10 @@ function App() {
       <Navbar />
       <Hero />
       <IconCategory />
+      <Trending />
+      <CurrentOffer />
+      <Popular />
+      <Newsletter />
     </>
   );
 }
