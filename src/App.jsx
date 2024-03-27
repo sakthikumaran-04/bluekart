@@ -7,6 +7,7 @@ import Trending from "./Trending/Trending";
 import Popular from "./Popular/Popular";
 import CurrentOffer from "./CurrentOffer/CurrentOffer";
 import Newsletter from "./Newsletter/Newsletter";
+import Footer from "./Footer/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <CurrentOffer />
       <Popular />
       <Newsletter />
+      <Footer />
     </>
   );
 }

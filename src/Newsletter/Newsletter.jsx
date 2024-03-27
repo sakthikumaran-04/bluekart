@@ -9,8 +9,8 @@ function Newsletter() {
           <img src={Newsletter_img} alt="" />
         </div>
         <div className="col-span-2">
-          <h3 className="text-2xl p-2 font-medium">Subscribe to Newletter</h3>
-          <h4 className="text-sm p-2">
+          <h3 className="text-2xl pt-5 font-medium text-slate-900">Subscribe to Newletter</h3>
+          <h4 className="text-sm p-2 py-3 text-slate-600">
             Stay updated by subscribing to our newsletter
           </h4>
           <div className="grid grid-cols-3">
